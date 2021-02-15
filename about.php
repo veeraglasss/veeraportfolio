@@ -5,7 +5,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>veera Portfolio</title>
+    <title>about us Portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Template Google Fonts -->
