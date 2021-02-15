@@ -99,8 +99,9 @@
                             </div>
                             <div class="col-12">
                                 <textarea name="content" id="content" placeholder="YOUR MESSAGE"></textarea>
-                                <button type="submit" class="btn btn-contact" name="submit" onClick="sendContact();">Send Message</button>
+                                
                             </div>
+				<button type="submit" class="btn btn-contact" name="submit" onClick="sendContact();">Send Message</button>
                             <div class="col-12 form-message">
                                 <span class="output_message text-center font-weight-600 text-uppercase"></span>
                             </div>
