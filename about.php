@@ -2,10 +2,10 @@
 <html lang="en">
 
 
-<!-- Mirrored from slimhamdi.net/tunis/dark/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Jan 2021 09:40:21 GMT -->
+
 <head>
     <meta charset="utf-8">
-    <title>About - Tunis Personal Portfolio</title>
+    <title>veera Portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Template Google Fonts -->
@@ -256,5 +256,5 @@
 </body>
 
 
-<!-- Mirrored from slimhamdi.net/tunis/dark/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Jan 2021 09:40:21 GMT -->
+
 </html>
