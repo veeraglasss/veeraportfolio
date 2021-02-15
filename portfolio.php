@@ -2,10 +2,10 @@
 <html lang="en">
 
 
-<!-- Mirrored from slimhamdi.net/tunis/dark/portfolio.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Jan 2021 09:40:21 GMT -->
+
 <head>
     <meta charset="utf-8">
-    <title>Portfolio - Tunis Personal Portfolio</title>
+    <title>Portfolio | Portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Template Google Fonts -->
@@ -420,5 +420,5 @@
 </body>
 
 
-<!-- Mirrored from slimhamdi.net/tunis/dark/portfolio.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Jan 2021 09:40:37 GMT -->
+
 </html>
