@@ -84,7 +84,7 @@
             <!-- Left Side Ends -->
             <!-- Contact Form Starts -->
             <div class="col-12 col-lg-8">
-                <form class="contactform form" id="formmail" >
+                <form class=" form" id="formmail" >
                 <div id="mail-status"></div>
                     <div class="contactform">
                         <div class="row">
