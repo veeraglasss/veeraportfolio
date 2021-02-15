@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from slimhamdi.net/tunis/dark/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Jan 2021 09:39:29 GMT -->
 <head>
     <meta charset="utf-8">
     <title>Tunis - Personal Portfolio</title>
@@ -82,5 +81,5 @@
 </body>
 
 
-<!-- Mirrored from slimhamdi.net/tunis/dark/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Jan 2021 09:39:48 GMT -->
+
 </html>
