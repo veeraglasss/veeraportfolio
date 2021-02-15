@@ -2,10 +2,10 @@
 <html lang="en">
 
 
-<!-- Mirrored from slimhamdi.net/tunis/dark/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Jan 2021 09:40:40 GMT -->
+
 <head>
     <meta charset="utf-8">
-    <title>Contact - Tunis Personal Portfolio</title>
+    <title>Contact Us Portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Template Google Fonts -->
@@ -114,33 +114,7 @@
 
 </section>
 
-<!-- <form class="form" id="formmail">
-            <div id="mail-status"></div>
-          <div class="form-row">
-            <div class="col-md-6 form-group">
-              <input type="text" name="userName" class="form-control" id="userName" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-              <div class="validate"></div>
-            </div>
-            <div class="col-md-6 form-group">
-              <input type="email" class="form-control" name="userEmail" id="userEmail" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-              <div class="validate"></div>
-            </div>
-          </div>
-          <div class="form-group">
-            <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-            <div class="validate"></div>
-          </div>
-          <div class="form-group">
-            <textarea class="form-control" name="content" id="content" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-            <div class="validate"></div>
-          </div>
-          <div class="mb-3">
-            <div class="loading">Loading</div>
-            <div class="error-message"></div>
-            <div class="sent-message">Your message has been sent. Thank you!</div>
-          </div>
-          <div class="text-center"><button type="submit" name="submit" onClick="sendContact();">Send Message</button></div>
-        </form> -->
+
 <!-- Template JS Files -->
 <script src="js/jquery-3.5.0.min.js"></script>
 <script src="js/styleswitcher.js"></script>
@@ -172,5 +146,5 @@ function sendContact() {
 </body>
 
 
-<!-- Mirrored from slimhamdi.net/tunis/dark/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Jan 2021 09:40:40 GMT -->
+
 </html>
